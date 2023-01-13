@@ -1,0 +1,44 @@
+<div class="prose mx-auto mt-8">
+	<p class="lead font-bold">
+		Join us in commemorating the hallowed history of Kansas suffragists and their fight to secure
+		the vote for all women.
+	</p>
+	<p>
+		The Kansas Suffragist Memorial Committee was founded in partnership between <a
+			href="https://lwvk.org/"
+		>
+			the League of Women Voters of Kansas
+		</a>, <a href="https://www.aauw.org/">the American Association of University Women</a>, and
+		<a
+			href="http://www.kslegislature.org/li_2022/b2021_22/committees/ctte_2011_capitol_preservation_committee_1/"
+		>
+			the Kansas Capitol Preservation Committee
+		</a>, with the goal of developing an innovative and original work of art to be displayed in the
+		Kansas State Capitol Building.
+	</p>
+	<p>We are currently looking for:</p>
+
+	<ul>
+		<li>
+			<b>Professional artists</b> and/or artist teams who are interested in submitting their qualifications
+			to be considered for this project, which has a budget of up to $125,000. Submissions are due no
+			later than February 15th, 2023. See the RFQ here.
+		</li>
+		<li>
+			<b>Donors and sponsors</b> interested in contributing funds to support the completion of the Kansas
+			Suffragist Memorial. Learn more about how to give here.
+		</li>
+	</ul>
+
+	<p>
+		We are excited to memorialize the incredible work of suffragists in our state, and we appreciate
+		your interest in our project.
+	</p>
+
+	<hr />
+	<h3>Questions?</h3>
+	<p>
+		Please email Marlene Merrill, <a href="mailto:amarlenem@yahoo.com">amarlenem@yahoo.com</a>
+		or Cille King, <a href="mailto:cilleking@gmail.com">cilleking@gmail.com</a>.
+	</p>
+</div>
