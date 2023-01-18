@@ -1,4 +1,13 @@
-<div class="prose mx-auto mt-8">
+<svelte:head>
+	<title>Kansas Suffragist Memorial</title>
+	<meta
+		name="description"
+		content="Join us in commemorating the hallowed history of Kansas suffragists and their fight to secure
+	the vote for all women."
+	/>
+</svelte:head>
+
+<div class="prose mx-auto mt-8 lg:prose-lg">
 	<p class="lead font-bold">
 		Join us in commemorating the hallowed history of Kansas suffragists and their fight to secure
 		the vote for all women.
@@ -20,13 +29,13 @@
 
 	<ul>
 		<li>
-			<b>Professional artists</b> and/or artist teams who are interested in submitting their qualifications
-			to be considered for this project, which has a budget of up to $125,000. Submissions are due no
-			later than February 15th, 2023. See the RFQ here.
+			<b>Professional artists</b> and/or artist teams who are interested in submitting their
+			qualifications to be considered for this project, which has a budget of up to $125,000.
+			Submissions are due no later than February 15th, 2023. <a href="/rfq">See the RFQ here</a>.
 		</li>
 		<li>
-			<b>Donors and sponsors</b> interested in contributing funds to support the completion of the Kansas
-			Suffragist Memorial. Learn more about how to give here.
+			<b>Donors and sponsors</b> interested in contributing funds to support the completion of the
+			Kansas Suffragist Memorial. <a href="give">Learn more about how to give here</a>.
 		</li>
 	</ul>
 

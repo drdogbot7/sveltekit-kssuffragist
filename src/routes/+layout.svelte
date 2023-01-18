@@ -1,35 +1,40 @@
 <script>
 	import '../app.css';
+	import '@fontsource/markazi-text';
 
 	import logo from '$lib/assets/logo.svg';
 </script>
 
 <header>
-	<div class="sm:flex justify-center gap-12">
+	<div class="justify-center gap-12 sm:flex">
 		<a href="/">
-			<img class="w-64 mx-auto" src={logo} alt="Kansas Suffragist Memorial logo" />
+			<img class="mx-auto w-64" src={logo} alt="Kansas Suffragist Memorial logo" />
 		</a>
-		<nav class="flex gap-x-6 gap-y-4 justify-center items-center mt-4 flex-wrap">
+		<nav class="mt-4 flex flex-col items-start justify-center gap-2">
 			<a
-				class="text-blue-500 w-full sm:w-auto text-center hover:underline font-bold uppercase"
+				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
+				href="/">Home</a
+			>
+			<a
+				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/history">History</a
 			>
 			<a
-				class="text-blue-500 w-full sm:w-auto text-center hover:underline font-bold uppercase"
+				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/rfq">Request for Qualifications</a
 			>
 			<a
-				class="text-blue-500 w-full sm:w-auto text-center hover:underline font-bold uppercase"
+				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/submit">Submit</a
 			>
-			<a
-				class="text-blue-500 w-full sm:w-auto text-center hover:underline font-bold uppercase"
+			<!-- <a
+				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/give">Give</a
-			>
+			> -->
 		</nav>
 	</div>
 </header>
 
-<div class="container max-w-screen-lg mx-auto px-2">
+<div class="container mx-auto max-w-screen-lg px-2 pb-8">
 	<slot />
 </div>
