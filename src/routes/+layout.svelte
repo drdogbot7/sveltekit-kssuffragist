@@ -3,6 +3,9 @@
 	import '@fontsource/markazi-text';
 
 	import logo from '$lib/assets/logo.svg';
+	import logoAAU from '$lib/assets/logo-aau.svg';
+	import logoCPC from '$lib/assets/logo-cpc.svg';
+	import logoLWVKS from '$lib/assets/logo-lwvks.png';
 </script>
 
 <header>
@@ -27,10 +30,10 @@
 				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/submit">Submit</a
 			>
-			<!-- <a
+			<a
 				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/give">Give</a
-			> -->
+			>
 		</nav>
 	</div>
 </header>
@@ -38,3 +41,40 @@
 <div class="container mx-auto max-w-screen-lg px-2 pb-8">
 	<slot />
 </div>
+
+<footer class="py-8">
+	<div class="flex items-center justify-center gap-4 px-6 md:gap-12">
+		<div>
+			<a href="https://lwvk.org/"
+				><img class="h-auto w-72" src={logoLWVKS} alt="League of Women Voters of Kansas logo" /></a
+			>
+		</div>
+		<div>
+			<a href="https://www.aauw.org/"
+				><img
+					class="h-auto w-36"
+					src={logoAAU}
+					alt="American Association of University Women logo"
+				/></a
+			>
+		</div>
+		<div>
+			<a
+				href="http://www.kslegislature.org/li_2022/b2021_22/committees/ctte_2011_capitol_preservation_committee_1/"
+				><img
+					class="h-auto w-36"
+					src={logoCPC}
+					alt="Kansas Capitol Preservation Committee logo"
+				/></a
+			>
+		</div>
+	</div>
+	<div class="mt-8 text-center text-sm text-gray-600">
+		©2023 Kansas Suffragist Monument Committee
+	</div>
+	<div class="mt-1 text-center text-xs text-gray-400">
+		Website by <a title="Lawrence KS web design" href="https://www.coneflower.org"
+			>Coneflower Consulting</a
+		>
+	</div>
+</footer>

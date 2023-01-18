@@ -20,6 +20,8 @@
 
 The Kansas Suffragists Memorial Committee aims to raise $125,000 by December 31st, 2023. Be part of this lasting tribute to suffragist history by giving today. You can contribute a one-time gift or set up a monthly recurring donation. All donations are tax-exempt to the extent allowed by law.
 
+**Check back soon for online donations.**
+
 <!-- <a href="/" class="mt-12 no-underline rounded bg-blue-50 px-4 py-2 hover:bg-blue-100">Donate</a> -->
 
 ---

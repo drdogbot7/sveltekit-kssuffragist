@@ -1,4 +1,10 @@
+<script>
+	import capitol1 from "$lib/assets/capitol-1.jpg?webp&w=630"
+	import capitol2 from "$lib/assets/capitol-2.jpg?webp&rotate=90&w=630"
+</script>
+
 <svelte:head>
+
 <title>Request for Qualifications - Kansas Suffragist Memorial</title>
 <!-- <meta
 		name="description"
@@ -13,8 +19,6 @@
 **Kansas Suffragist Memorial  
 PUBLIC ART REQUEST FOR QUALIFICATIONS (RFQ)  
 DUE: February 15th, 2023**
-
-<!-- <a class="text-xl font-bold" href="/submit">SUBMIT HERE</a> -->
 
 ## Partners
 
@@ -37,7 +41,12 @@ We prefer to select a Kansas artist but the opportunity to compete for this proj
 
 There are two possible locations in the Kansas Capitol on the first floor of the building. The dimensions are approximate. The artist is responsible for confirming all measurements.
 
+<img src="{capitol1}" class="prose-img mx-auto" alt="KS Suffragist Memorial Location 1" />
+
 1. On the wall between the Rotunda and the cage elevator, (Width: Total wall-9’-9.5” in 3 sections; 2’–2.5”; 6” deep inset 5’-4.5”; 2’-2.5”; Height: wainscotting 4’ high, plaster wall from wainscotting to ceiling molding 11’-5”)
+
+<img src="{capitol2}" class="prose-img mx-auto"  alt="KS Suffragist Memorial Location 2" />
+
 2. On either wall or in the corner across from the cage elevator opening. (North wall: Width: 21’-4.5”: Height: wainscotting 4’ high, plaster wall from wainscotting to ceiling molding 11’-8”; East wall: Width: from corner to hallway opening; 7’ 9”: Height: wainscotting 4’ high, plaster wall from wainscotting to ceiling molding 11’-8”).
 
 ## Requirements
@@ -71,5 +80,9 @@ The selection panel will comprise arts professionals familiar with the field of 
 2. What kinds of professional public art experience does the artist have?
 3. Does the artist reflect the diversity of women involved in suffrage?
 4. Does the artist indicate an interest and the ability to contribute to a contemporary discussion of women’s education?
+
+---
+
+<a class="text-xl font-bold" href="/submit">SUBMIT HERE</a>
 
 </div>
