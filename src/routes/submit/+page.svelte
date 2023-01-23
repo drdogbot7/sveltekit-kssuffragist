@@ -38,7 +38,7 @@
 			<div class="space-y-6">
 				<label class="block" for="name">
 					<div class="text-sm uppercase">Artist Website</div>
-					<input class="mt-1 block w-full" type="url" name="website" />
+					<input class="mt-1 block w-full" type="text" name="website" />
 				</label>
 				<label class="block" for="name">
 					<div class="text-sm uppercase">Social Media Accounts</div>
