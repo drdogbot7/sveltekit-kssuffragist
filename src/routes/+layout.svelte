@@ -3,9 +3,9 @@
 	import '@fontsource/markazi-text';
 
 	import logo from '$lib/assets/logo.svg';
-	import logoAAU from '$lib/assets/logo-aau.svg';
+	import logoAAU from '$lib/assets/logo-aauw-ks.png?w=144&webp';
 	import logoCPC from '$lib/assets/logo-cpc.svg';
-	import logoLWVKS from '$lib/assets/logo-lwvks.png';
+	import logoLWVKS from '$lib/assets/logo-lwvks.png?w=288&webp';
 </script>
 
 <header>
