@@ -13,11 +13,11 @@
 		the vote for all women.
 	</p>
 	<p>
-		The Kansas Suffragist Memorial Committee was founded in partnership between <a
+		The Kansas Suffragist Memorial Committee was founded in collaboration between <a
 			href="https://lwvk.org/"
 		>
 			the League of Women Voters of Kansas
-		</a>, <a href="https://www.aauw.org/">the American Association of University Women</a>, and
+		</a>, <a href="https://aauw-ks.aauw.net/">the AAUW of KS</a>, and
 		<a
 			href="http://www.kslegislature.org/li_2022/b2021_22/committees/ctte_2011_capitol_preservation_committee_1/"
 		>

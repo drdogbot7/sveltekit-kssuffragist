@@ -20,9 +20,9 @@
 PUBLIC ART REQUEST FOR QUALIFICATIONS (RFQ)  
 DUE: February 15th, 2023**
 
-## Partners
+## Collaborators
 
-League Women Voters of Kansas, American Association of University Women, and Capitol Preservation Committee
+League Women Voters of Kansas, AAUW of KS, and Capitol Preservation Committee
 
 ## Description
 

@@ -50,12 +50,8 @@
 			>
 		</div>
 		<div>
-			<a href="https://www.aauw.org/"
-				><img
-					class="h-auto w-36"
-					src={logoAAU}
-					alt="American Association of University Women logo"
-				/></a
+			<a href="https://aauw-ks.aauw.net/"
+				><img class="h-auto w-36" src={logoAAU} alt="AAUW of KS logo" /></a
 			>
 		</div>
 		<div>
