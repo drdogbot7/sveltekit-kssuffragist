@@ -18,7 +18,7 @@
 
 **Kansas Suffragist Memorial  
 PUBLIC ART REQUEST FOR QUALIFICATIONS (RFQ)  
-DUE: February 15th, 2023**
+DUE: ~~February 15th, 2023~~ April 1st, 2023**
 
 ## Collaborators
 

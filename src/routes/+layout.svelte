@@ -9,6 +9,9 @@
 </script>
 
 <header>
+	<div class="bg-red-500 px-4 py-2 text-center uppercase text-white">
+		<b>Deadline for submissions has been extended to April 1, 2023.</b>
+	</div>
 	<div class="justify-center gap-12 sm:flex">
 		<a href="/">
 			<img class="mx-auto w-64" src={logo} alt="Kansas Suffragist Memorial logo" />
