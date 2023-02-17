@@ -31,7 +31,7 @@
 		<li>
 			<b>Professional artists</b> and/or artist teams who are interested in submitting their
 			qualifications to be considered for this project, which has a budget of up to $125,000.
-			Submissions are due no later than February 15th, 2023. <a href="/rfq">See the RFQ here</a>.
+			Submissions are due no later than April 1, 2023. <a href="/rfq">See the RFQ here</a>.
 		</li>
 		<li>
 			<b>Donors and sponsors</b> interested in contributing funds to support the completion of the
