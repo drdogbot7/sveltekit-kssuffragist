@@ -25,14 +25,20 @@
 		</a>, with the goal of developing an innovative and original work of art to be displayed in the
 		Kansas State Capitol Building.
 	</p>
+
+	<p>
+		As of April 1, 2023, we are no longer accepting submissions from artists. Thank you to everyone
+		who submitted! We are currently reviewing the submissions.
+	</p>
+
 	<p>We are currently looking for:</p>
 
 	<ul>
-		<li>
+		<!-- <li>
 			<b>Professional artists</b> and/or artist teams who are interested in submitting their
 			qualifications to be considered for this project, which has a budget of up to $125,000.
 			Submissions are due no later than April 1, 2023. <a href="/rfq">See the RFQ here</a>.
-		</li>
+		</li> -->
 		<li>
 			<b>Donors and sponsors</b> interested in contributing funds to support the completion of the
 			Kansas Suffragist Memorial. <a href="give">Learn more about how to give here</a>.

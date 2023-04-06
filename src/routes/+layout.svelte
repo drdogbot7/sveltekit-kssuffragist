@@ -9,9 +9,9 @@
 </script>
 
 <header>
-	<div class="bg-red-500 px-4 py-2 text-center uppercase text-white">
+	<!-- <div class="bg-red-500 px-4 py-2 text-center uppercase text-white">
 		<b>Deadline for submissions has been extended to April 1, 2023.</b>
-	</div>
+	</div> -->
 	<div class="justify-center gap-12 sm:flex">
 		<a href="/">
 			<img class="mx-auto w-64" src={logo} alt="Kansas Suffragist Memorial logo" />
@@ -25,14 +25,14 @@
 				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/history">History</a
 			>
-			<a
+			<!-- <a
 				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/rfq">Request for Qualifications</a
-			>
-			<a
+			> -->
+			<!-- <a
 				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/submit">Submit</a
-			>
+			> -->
 			<a
 				class="w-full text-center font-bold uppercase text-blue-500 hover:underline sm:w-auto"
 				href="/give">Give</a

@@ -9,7 +9,10 @@
 
 <div class="prose mx-auto mt-8 max-w-2xl lg:prose-lg">
 	<h1 class="text-center">Submission Form</h1>
-	<div class="mx-auto max-w-xl">
+	<div class="">
+		As of April 1, 2023, we are no longer accepting artist applications. Thank you!
+	</div>
+	<!-- <div class="mx-auto max-w-xl">
 		<form
 			action="https://formcarry.com/s/HdGTaKByAg"
 			method="POST"
@@ -107,5 +110,5 @@
 				Value="Submit"
 			/>
 		</form>
-	</div>
+	</div> -->
 </div>
