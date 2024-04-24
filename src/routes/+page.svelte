@@ -1,3 +1,8 @@
+<script>
+	// import allender from '$lib/assets/allender.jpg?w=240&h=300&webp';
+	import mural from '$lib/assets/mural-mockup.png?w=560&webp';
+</script>
+
 <svelte:head>
 	<title>Kansas Suffragist Memorial</title>
 	<meta
@@ -25,25 +30,24 @@
 		</a>, with the goal of developing an innovative and original work of art to be displayed in the
 		Kansas State Capitol Building.
 	</p>
+	<p>
+		The Kansas Capitol Preservation Committee has given final approval to artist Phyllis Pease's
+		mural (pictured below). With your financial support, we plan a January 29, 2025 dedication.
+	</p>
+	<figure>
+		<img src={mural} alt="Mockup of Kansas Suffragist Mural installed in statehouse" />
+		<figcaption>
+			Mockup of Phyllis Pease's mural installed in the Kansas State Capitol Building
+		</figcaption>
+	</figure>
+
+	<h2>Support the Project</h2>
 
 	<p>
-		As of April 1, 2023, we are no longer accepting submissions from artists. Thank you to everyone
-		who submitted! We are currently reviewing the submissions.
+		We are currently seeking <b>Donors and sponsors</b> interested in contributing funds to support
+		the completion of the Kansas Suffragist Memorial.
+		<a href="give">Learn more about how to give here</a>.
 	</p>
-
-	<p>We are currently looking for:</p>
-
-	<ul>
-		<!-- <li>
-			<b>Professional artists</b> and/or artist teams who are interested in submitting their
-			qualifications to be considered for this project, which has a budget of up to $125,000.
-			Submissions are due no later than April 1, 2023. <a href="/rfq">See the RFQ here</a>.
-		</li> -->
-		<li>
-			<b>Donors and sponsors</b> interested in contributing funds to support the completion of the
-			Kansas Suffragist Memorial. <a href="give">Learn more about how to give here</a>.
-		</li>
-	</ul>
 
 	<p>
 		We are excited to memorialize the incredible work of suffragists in our state, and we appreciate
