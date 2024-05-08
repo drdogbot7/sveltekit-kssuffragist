@@ -1,6 +1,6 @@
 <script>
-	// import allender from '$lib/assets/allender.jpg?w=240&h=300&webp';
-	import mural from '$lib/assets/mural-mockup.png?w=560&webp';
+	import muralSet from '$lib/assets/mural-mockup.png?w=560;1120&webp&as=srcset';
+	import mural from '$lib/assets/mural-mockup.png?w=560';
 </script>
 
 <svelte:head>
@@ -34,10 +34,14 @@
 		The Kansas Capitol Preservation Committee has given final approval to artist Phyllis Pease's
 		mural (pictured below). With your financial support, we plan a January 29, 2025 dedication.
 	</p>
+
 	<figure>
-		<img src={mural} alt="Mockup of Kansas Suffragist Mural installed in statehouse" />
+		<picture>
+			<source srcset={muralSet} />
+			<img src={mural} alt="Mockup of Kansas Suffragist Mural installed in statehouse" />
+		</picture>
 		<figcaption>
-			Mockup of Phyllis Pease's mural installed in the Kansas State Capitol Building
+			Mockup of Phyllis Pease's mural installed in the Kansas State Capitol Building.
 		</figcaption>
 	</figure>
 
