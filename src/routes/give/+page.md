@@ -14,7 +14,7 @@
 
 ** Celebrating Kansas Women.** The Kansas Suffragist Memorial intends to recognize the difficulties and sacrifices that suffragists faced in earning their voting rights and to educate voters on the importance of civic engagement. Kansas suffragists waged five campaigns to win women’s right to vote from the 1859 Wyandotte Constitutional Convention to 1912 when Kansas women won full suffrage. In addition to the sixth campaign for universal US suffrage, women struggled for 62 years.
 
-<div class="text-center"><a target="_blank" href="/KS-suffragist-memorial-contribution-form.pdf" class="no-underline rounded bg-yellow-400 px-8 font-bold py-4 text-lg hover:bg-blue-100 inline-block">Donation Form (pdf)</a></div>
+<div class="text-center"><a target="_blank" href="/KS-suffragist-memorial-contribution-form_2024-08-08.pdf" class="no-underline rounded bg-yellow-400 px-8 font-bold py-4 text-lg hover:bg-blue-100 inline-block">Donation Form (pdf)</a></div>
 
 There are six donation levels based on campaigns for suffrage:
 
